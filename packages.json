@@ -1,0 +1,7 @@
+{
+    "packages": {
+        "laravelbook/ardent": {
+            "dev-has-session-fix": { "https://github.com/SingularityInteractive/ardent/tree/dev-has-session-fix/composer.json" }
+        }
+    }
+}
